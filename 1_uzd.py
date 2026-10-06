@@ -38,10 +38,11 @@
 #      ---- Izmaiņas ievietot GitHub ar piemērotu nosaukumu
 
 """2. uzdevums"""
-# 3.0. Izveidot mapi "uzd_2", kurā tiks veikti visi 3.x punkti
+# 3.0 Izveidot zaru "2_uzd", kurā tiks veikts 2.uzd
+# 3.1. Izveidot mapi "uzd_2", kurā tiks veikti visi 3.x punkti
 #      ---- Nokopēt failu "shows.txt" un ievietot to mapē
 #      ---- Izveidot Python failu, kurā tiks rakstīts uzdevuma kods
-# 3.1. Datu nolasīšana ("output.txt"):
+# 3.2. Datu nolasīšana ("output.txt"):
 #      ---- Iegūt visu ciparu summu failā
 #      ---- Saskaitīt filmu skaitu failā
 #      ---- Atrast Anime, kurš ir visvecākais
@@ -49,13 +50,14 @@
 #      ++++ Atrast ierakstu ar visgarāko nosaukumu (saturs, kas ir starp "")
 #      ---- Iegūtos datus izvadīt konsolē
 #      ---- Izmaiņas ievietot GitHub ar piemērotu nosaukumu
-# 3.2. Failu apstrāde:
+# 3.3. Failu apstrāde:
 #      ++++ Sakārtot visus ierakstus no vecākā uz jaunāko
 #      ---- Iegūtos datus izvadīt konsolē
 #      ---- Izmaiņas ievietot GitHub ar piemērotu nosaukumu
-# 3.3. "README.md" papildināšana
+# 3.4. "README.md" papildināšana
 #      ---- Pievienot failam konsoles izvades rezultātus
 #      ---- Izmaiņas ievietot GitHub ar piemērotu nosaukumu
+# 3.5. Izmaiņas no zara "2_uzd" ievietot pamat zarā, saglabājot "2_uzd zaru"
 
 """++++ 3. uzdevums"""
 # 4.0. Izveidot mapi "uzd_3", kurā tiks veikti visi 4.x punkti
