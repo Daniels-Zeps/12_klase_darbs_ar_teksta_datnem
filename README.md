@@ -1,6 +1,6 @@
-### Uzdevumu par teksta datnem v1.1
+### Uzdevumu par teksta datnem v1.3
 
-2026.gada 3. oktobris
+2026.gada 16. oktobris
 
 > ---- uzdevumi ir vienkāršāki
 
